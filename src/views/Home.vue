@@ -19,7 +19,9 @@
           </div>
         </v-card>
       </v-col>
-      <v-col></v-col>
+      <v-col>
+
+      </v-col>
     </v-row>
 
     <h4 class="mb-1">技能</h4>
